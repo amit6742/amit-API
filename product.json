@@ -1,0 +1,35 @@
+[
+    {
+        "name": "watch20",
+        "price": 304,
+        "featured":true,
+        "company": "apple"
+    },
+    {
+        "name": "watch10",
+        "price": 555,
+        "featured":true,
+        "company": "apple"
+    },
+    {
+        "name": "dell gaming",
+        "price": 1200,
+        "feature":true,
+        "company": "dell"
+    },
+    {
+        "name": "s21",
+        "price": 220,
+        "company": "samsung"
+    },
+    {
+        "name": "s20",
+        "price": 809,
+        "company": "samsung"
+    },
+    {
+        "name": "iphone 15",
+        "price": 9000,
+        "company": "apple"
+    }
+]
